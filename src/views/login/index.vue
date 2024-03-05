@@ -146,7 +146,7 @@ onBeforeUnmount(() => {
                 :loading="loading"
                 @click="onLogin(ruleFormRef)"
               >
-                登录
+                点击登录
               </el-button>
             </Motion>
           </el-form>
